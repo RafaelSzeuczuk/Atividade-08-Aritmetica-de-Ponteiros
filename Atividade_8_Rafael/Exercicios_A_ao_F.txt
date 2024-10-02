@@ -1,0 +1,21 @@
+Nome: Rafael Szeuczuk André     Turma:B
+A)
+    (c). O endereço do primeiro elemento do vetor.
+
+B)
+    y=4;
+
+C)
+    ( F ) Após a atribuição pa = &a[0], pa e a possuem valores idênticos, isto é, apontam
+    para o mesmo endereço.
+    ( V ) A atribuição pa = &a[0]; pode ser escrita como pa = a;.
+    ( F ) a[i] pode ser escrito como *(a+i).
+
+D)
+    A linha 14, deve ser subtituida por "p=&x".
+
+E)
+    Na linha 7, o resultado será o último elemento menos o primeiro, logo será impresso 9.
+
+F)
+    Valores finais de pc1, pc2, pc3, respectivamente, 1000, 1001, 1005, 1000.
